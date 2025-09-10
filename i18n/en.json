@@ -1,0 +1,6 @@
+{
+  "app.title": "Sample App",
+  "login.title": "Login",
+  "login.button": "Sign in",
+  "error.required": "This field is required."
+}
